@@ -3,7 +3,7 @@
 <h3 align="center">A passionate engineer from Vietnam</h3>
 <img align="right" alt="Coding Cat" height="195", src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trminhnam&show_icons=true&locale=en&theme=dark" alt="trminhnam"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trminhnam&show_icons=true&locale=en&theme=dark&count_private=true" alt="trminhnam"/></p>
 
 -   🌱 I’m currently learning **Deep Learning with PyTorch and TensorFlow**
 
