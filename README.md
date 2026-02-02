@@ -1,5 +1,5 @@
 <h1 align="center" alt="Coding Cat"> <img src="https://media.tenor.com/LSDeBe2JAfoAAAAC/cat-coding.gif"></h1>
-<h1 align="center">Hi 👋, I'm Minh-Nam</h1>
+<h1 align="center">Hi 👋, I'm Minh Nam TRAN</h1>
 <h3 align="center">A PhD student in Computer Science at Purdue University</h3>
 <h3 align="center">
   My personal website is 
