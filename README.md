@@ -27,15 +27,6 @@ PhD Student in Computer Science · Purdue University
 
 ---
 
-### 🔗 Connect With Me
-<p align="left">
-  <a href="https://linkedin.com/in/tranminhnam20082002/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35"/>
-  </a>
-</p>
-
----
-
 ### 🛠️ Languages & Tools
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
